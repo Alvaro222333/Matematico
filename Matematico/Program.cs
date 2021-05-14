@@ -21,7 +21,7 @@ namespace Matematico
             Multiplicacion = Num1 + Num2;
             Console.WriteLine("La suma total es {0}", Suma);
             Console.WriteLine("el total de la resta es {0}", Resta);
-            Console.WriteLine("el total de la multiplicacion es {0}", Multiplicacion);
+            Console.WriteLine("la multiplicacion es {0}", Multiplicacion);
 
             Console.Write("Se agrego una 1ra linea");
             
