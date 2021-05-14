@@ -23,7 +23,7 @@ namespace Matematico
             Console.WriteLine("el total de la resta es {0}", Resta);
 
             Console.Write("Se agrego una 1ra linea");
-            Console.Write("Mensaje");
+            
 
             Console.ReadKey();
         }
