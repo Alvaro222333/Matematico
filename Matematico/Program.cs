@@ -17,8 +17,8 @@ namespace Matematico
             Num2 = int.Parse(Console.ReadLine());
 
             Suma = Num1 + Num2;
-            Resta = Num1 + Num2;
-            Multiplicacion = Num1 + Num2;
+            Resta = Num1 - Num2;
+            Multiplicacion = Num1 * Num2;
             Console.WriteLine("La suma total es {0}", Suma);
             Console.WriteLine("el total de la resta es {0}", Resta);
             Console.WriteLine("la multiplicacion es {0}", Multiplicacion);
