@@ -10,15 +10,17 @@ namespace Matematico
     {
         static void Main(string[] args)
         {
-            int Num1, Num2, Suma;
+            int Num1, Num2, Suma, Resta;
             Console.Write("Introduzca primer numero: ") ;
             Num1 = int.Parse(Console.ReadLine());
             Console.Write("Introduzca segundo numero: ");
             Num2 = int.Parse(Console.ReadLine());
 
             Suma = Num1 + Num2;
+            Resta = Num1 + Num2;
 
-            Console.WriteLine("La suma tota es {0}", Suma);
+            Console.WriteLine("La suma total es {0}", Suma);
+            Console.WriteLine("La resta es {0}", Resta);
 
             Console.Write("Se agrego una 1ra linea");
             
