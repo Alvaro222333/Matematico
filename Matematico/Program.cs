@@ -20,6 +20,8 @@ namespace Matematico
 
             Console.WriteLine("La suma tota es {0}", Suma);
 
+            Console.Write("Se agrego una 1ra linea");
+
             Console.ReadKey();
         }
     }
