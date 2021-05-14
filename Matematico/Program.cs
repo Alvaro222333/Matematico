@@ -20,7 +20,7 @@ namespace Matematico
             Resta = Num1 + Num2;
 
             Console.WriteLine("La suma total es {0}", Suma);
-            Console.WriteLine("La resta es {0}", Resta);
+            Console.WriteLine("el total de la resta es {0}", Resta);
 
             Console.Write("Se agrego una 1ra linea");
             
